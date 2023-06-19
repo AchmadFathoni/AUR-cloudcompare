@@ -39,14 +39,14 @@ pkgbase = cloudcompare
 	source = CloudCompare.desktop
 	source = ccViewer.desktop
 	source = tbb.2021.patch
-	source = libE57Format::git+https://github.com/asmaloney/libE57Format
-	source = CCCoreLib::git+https://github.com/CloudCompare/CCCoreLib
-	source = PoissonRecon::git+https://github.com/cloudcompare/PoissonRecon
-	source = mplane-plugin::git+https://github.com/hvs-ait/mplane-plugin
-	source = ptrans::git+https://gitlab.univ-nantes.fr/E164955Z/ptrans
-	source = masonry-cc::git+https://github.com/CyberbuildLab/masonry-cc
-	source = JSonRPCPlugin::git+https://gitlab.com/theadib/JSonRPCPlugin
-	source = dlib::git+https://github.com/davisking/dlib
+	source = libE57Format::git+https://github.com/asmaloney/libE57Format#commit=dd7d7d7
+	source = CCCoreLib::git+https://github.com/CloudCompare/CCCoreLib#commit=54ecc71
+	source = PoissonRecon::git+https://github.com/cloudcompare/PoissonRecon#commit=8683f6c
+	source = mplane-plugin::git+https://github.com/hvs-ait/mplane-plugin#commit=94e7bf2
+	source = ptrans::git+https://gitlab.univ-nantes.fr/E164955Z/ptrans#commit=f0f3079
+	source = masonry-cc::git+https://github.com/CyberbuildLab/masonry-cc#commit=8372386
+	source = JSonRPCPlugin::git+https://gitlab.com/theadib/JSonRPCPlugin#commit=32efc6e
+	source = dlib::git+https://github.com/davisking/dlib#commit=9117bd7
 	sha256sums = SKIP
 	sha256sums = SKIP
 	sha256sums = 14096df9cf7aca3099d5df1585d1cf669544e9b10754dce3d2507100dd7034fe
